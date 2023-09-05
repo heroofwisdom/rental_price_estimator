@@ -1,7 +1,7 @@
 
 # Rental Price Prediction
 
-This was a case study project for an imaginary online rental agency "Inn the Neighborhood". Details of the study and business challenge are described below.
+This was a case study project for an imaginary online rental agency "Inn the Neighborhood". Details of the study and business challenge are described below. Additional details can be found within the code notebook.
 
 ### Company Background
 
@@ -17,4 +17,8 @@ The product manager would like to know:
 ### Success Criteria
 
 They want to avoid estimating prices that are more than 25 dollars off of the actual price, as this may discourage people.
+
+### Outcome
+
+Unfortunately the model was not able to meet the success criteria. Multiple additional avenues are suggested for improvement, including segmentation, improved model, and additional data.
 
