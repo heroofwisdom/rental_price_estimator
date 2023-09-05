@@ -20,5 +20,5 @@ They want to avoid estimating prices that are more than 25 dollars off of the ac
 
 ### Outcome
 
-Unfortunately the model was not able to meet the success criteria. Multiple additional avenues are suggested for improvement, including segmentation, improved model, and additional data.
+Unfortunately the model was not able to meet the success criteria. Multiple additional avenues are suggested for improvement, including segmentation by price, improved model (change of model type or algorithm), and additional data.
 
